@@ -1,7 +1,7 @@
 {
-	"host": "110.64.89.116",
-	"user": "root",
-	"password": "root",
+	"host": "45.77.30.73",
+	"user": "live",
+	"password": "live",
 	"port": "3306",
-	"database": "TurtleTV"
+	"database": "live"
 }
